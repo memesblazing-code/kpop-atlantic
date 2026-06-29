@@ -1,0 +1,565 @@
+song,artist,album_type,is_explicit,total_days_on_chart,total_reentries,avg_gap_before_reentry,reentry_frequency,avg_momentum_spike,avg_retention_days,rank_recovery_speed,peak_reentry_popularity,fandom_intensity_score
+"Standing Next to You","Jung Kook",album,FALSE,385,5,2.0,0.39,0.00,202.0,0.25,95,52.0500
+"Seven (feat. Latto) (Explicit Ver.)","Jung Kook",album,TRUE,386,4,2.0,0.31,0.00,186.0,0.00,88,47.7000
+"3D (feat. Jack Harlow)","Jung Kook",album,TRUE,309,4,2.0,0.39,0.00,186.0,-0.13,83,47.6740
+"Love Me Again",V,single,FALSE,469,4,2.0,0.26,0.00,186.0,-0.63,89,47.5740
+"Closer Than This",Jimin,single,FALSE,207,3,2.0,0.43,0.00,186.0,-0.13,86,47.3740
+"Closer Than This",Jimin,album,FALSE,129,1,2.0,0.23,0.00,186.0,-0.13,86,46.7740
+"A bientot","Lim Young Woong",album,FALSE,282,24,7.2,2.55,-0.25,155.4,-0.06,59,45.9755
+"Interlude : Dive",Jimin,single,FALSE,365,21,3.1,1.73,-0.38,158.7,-0.16,82,45.8480
+"Like Crazy",Jimin,single,FALSE,555,5,2.0,0.27,-0.40,164.8,0.20,91,42.6400
+"If We Ever Meet Again","Lim Young Woong",album,FALSE,504,8,2.1,0.48,-0.25,140.4,-0.25,61,37.3875
+"New Jeans",NewJeans,single,FALSE,281,23,9.3,2.46,-0.35,118.7,0.17,84,36.5215
+Polaroid,"Lim Young Woong",single,FALSE,509,4,2.0,0.24,0.00,139.0,-0.13,62,35.9240
+"BIRDS OF A FEATHER","Billie Eilish",album,FALSE,185,3,2.0,0.49,0.67,139.0,0.50,100,35.9175
+Rainbow,"Lim Young Woong",album,FALSE,405,19,3.5,1.41,-0.05,116.4,0.38,60,34.8635
+"Our Blues, Our Life","Lim Young Woong",album,FALSE,363,31,4.0,2.56,-0.10,99.9,0.27,60,34.3040
+"People Pt.2 (feat. IU)","Agust D",album,FALSE,144,2,14.5,0.42,-1.00,126.5,-0.05,80,31.9650
+Supernatural,NewJeans,single,FALSE,157,2,2.0,0.38,0.50,122.0,0.50,83,31.3250
+Magnetic,ILLIT,single,FALSE,244,2,2.0,0.25,0.00,122.0,0.50,89,31.2000
+"How Sweet",NewJeans,single,FALSE,184,2,2.0,0.33,0.00,122.0,0.25,84,31.1500
+"Love Always Run Away","Lim Young Woong",single,FALSE,134,14,11.4,3.13,-0.07,106.8,0.02,59,30.8865
+"Seven (feat. Latto) (Explicit Ver.)","Jung Kook & Latto",single,TRUE,109,1,3.0,0.28,9.00,108.0,0.00,95,29.5500
+"Hype Boy",NewJeans,single,FALSE,321,21,10.2,1.96,-0.38,92.6,0.16,85,29.3870
+"Grain of Sand","Lim Young Woong",single,FALSE,517,7,3.4,0.41,0.00,104.1,0.05,67,28.1350
+"Be Mine",Jimin,album,FALSE,129,1,2.0,0.23,0.00,106.0,0.00,82,26.8000
+"Smeraldo Garden Marching Band (feat. Loco)",Jimin,album,FALSE,129,1,2.0,0.23,0.00,106.0,0.00,80,26.8000
+Who,Jimin,album,FALSE,129,1,2.0,0.23,0.00,106.0,0.00,94,26.8000
+"Rebirth (Intro)",Jimin,album,FALSE,129,1,2.0,0.23,0.00,106.0,-0.50,79,26.7000
+"Slow Dance (feat. Sofia Carson)",Jimin,album,FALSE,129,1,2.0,0.23,0.00,106.0,-0.50,80,26.7000
+"Do or Die","Lim Young Woong",single,FALSE,390,7,3.4,0.54,-0.43,99.0,-0.40,68,26.6625
+Supernova,aespa,album,FALSE,178,3,2.0,0.51,0.00,103.0,0.00,76,26.6500
+"Interlude : Showtime",Jimin,album,FALSE,129,1,2.0,0.23,0.00,106.0,-1.00,77,26.6000
+Supernova,aespa,single,FALSE,16,0,NULL,0.00,0.00,103.0,0.00,76,25.7500
+ETA,NewJeans,single,FALSE,341,18,8.3,1.58,-0.06,77.9,-0.03,85,24.8540
+Ditto,NewJeans,single,FALSE,374,27,7.0,2.17,-0.30,64.7,0.12,85,24.2240
+HAPPY,DAY6,album,FALSE,90,1,161.0,0.33,4.00,91.0,-0.02,57,24.0460
+HAPPY,DAY6,single,FALSE,2,0,NULL,0.00,4.00,91.0,-0.02,57,23.7460
+"I Love You","Lim Young Woong",album,FALSE,150,12,13.1,2.40,0.00,80.2,0.36,58,23.7220
+"Perfect Night","LE SSERAFIM",single,FALSE,278,13,7.2,1.40,0.08,78.8,0.13,88,23.6460
+"Cruel Summer","Taylor Swift",album,FALSE,251,16,13.1,1.91,-0.56,74.8,0.21,100,23.4020
+OMG,NewJeans,single,FALSE,317,15,14.2,1.42,-0.60,74.3,0.15,87,22.9550
+"Time of Our Life -Japanese ver.- - Japanese ver.",DAY6,single,FALSE,102,9,17.1,2.65,0.00,79.7,0.02,56,22.6290
+K-POP,"Travis Scott & Bad Bunny & The Weeknd",single,TRUE,6,1,3.0,1.00,87.00,2.0,0.33,91,22.6160
+"Like Crazy (English Version)",Jimin,single,FALSE,430,3,2.0,0.21,0.00,86.7,-0.33,79,22.5090
+"Set Me Free Pt.2",Jimin,single,TRUE,430,3,2.0,0.21,-0.33,86.7,-0.33,78,22.4265
+Smart,"LE SSERAFIM",single,FALSE,118,3,2.0,0.76,15.67,69.0,-0.50,87,21.9675
+Home,"Lim Young Woong",single,FALSE,191,3,3.7,0.47,0.00,81.3,-0.38,65,21.1490
+Espresso,"Sabrina Carpenter",single,TRUE,163,2,2.0,0.37,0.00,75.0,1.00,99,19.5500
+Armageddon,aespa,album,FALSE,178,5,2.0,0.84,-0.20,72.2,-0.90,79,19.3200
+"Welcome to the Show",DAY6,album,FALSE,95,6,26.8,1.89,-0.67,71.5,-1.33,67,19.2415
+"Lovely Touch","Lim Young Woong",album,FALSE,119,5,32.0,1.26,0.00,70.4,-0.61,58,18.9780
+Espresso,"Sabrina Carpenter",album,TRUE,13,0,NULL,0.00,0.00,75.0,1.00,99,18.9500
+"London Boy","Lim Young Woong",single,FALSE,522,10,4.0,0.57,-0.20,63.9,-0.28,65,18.8690
+Warmth,"Lim Young Woong",single,FALSE,195,4,2.5,0.62,-0.25,69.8,-0.42,65,18.5035
+"You & Me (Coachella ver.)",JENNIE,single,FALSE,3,1,3.0,1.00,74.00,2.0,-4.00,74,18.5000
+"Welcome to the Show",DAY6,single,FALSE,2,0,NULL,0.00,-0.67,71.5,-1.33,67,17.4415
+"Super Shy",NewJeans,single,FALSE,410,6,5.8,0.44,0.00,62.0,-0.08,86,17.2840
+"A Psalm of Life","Lim Young Woong",album,FALSE,121,6,25.3,1.49,0.00,61.5,0.15,58,17.2050
+"Beautiful Things","Benson Boone",single,FALSE,62,4,2.0,1.94,0.50,62.8,0.50,100,17.1250
+Drama,aespa,album,FALSE,224,8,15.1,1.07,-0.63,58.9,0.36,85,17.0395
+"Who (Rock Remix)",Jimin,album,FALSE,101,5,6.0,1.49,0.40,62.0,-1.38,67,16.8240
+"Who (Acoustic Remix)",Jimin,album,FALSE,97,5,6.8,1.55,0.40,58.2,-1.04,66,15.9420
+"Beautiful Things","Benson Boone",album,FALSE,24,0,NULL,0.00,0.50,62.8,0.50,100,15.9250
+"Sudden Shower",ECLIPSE,single,FALSE,77,4,3.3,1.56,0.75,58.5,-0.52,78,15.9085
+"Slow Dancing",V,single,FALSE,235,6,2.2,0.77,0.17,55.5,0.69,91,15.8555
+Sticky,"KISS OF LIFE",single,FALSE,109,3,2.0,0.83,0.67,56.3,-1.17,82,14.9085
+HERO,"Lim Young Woong",single,FALSE,111,4,3.5,1.08,0.00,55.0,-0.98,58,14.7540
+Haegeum,"Agust D",album,FALSE,149,5,3.4,1.01,0.20,51.4,0.27,90,14.4540
+"Get A Guitar",RIIZE,single,FALSE,190,8,6.3,1.26,0.75,47.0,0.27,69,14.3915
+"Who (Beautiful Mind Remix)",Jimin,album,FALSE,78,12,5.0,4.62,0.08,42.5,-0.94,65,14.0570
+"Who (Funky Remix)",Jimin,album,FALSE,82,12,4.7,4.39,0.17,41.3,-0.46,65,13.8755
+"Fry’s Dream",AKMU,single,FALSE,53,2,7.0,1.13,4.00,47.5,0.89,61,13.6530
+Father,"Lim Young Woong",album,FALSE,106,5,4.8,1.42,0.00,47.6,0.27,59,13.4540
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version","Fast & Furious: The Fast Saga & Jimin & BTS",single,FALSE,87,4,37.0,1.38,-3.00,51.5,0.35,71,13.3950
+"Who (Shibuyakei Remix)",Jimin,album,FALSE,89,8,5.6,2.70,0.25,41.3,0.18,66,12.8235
+"Who (Instrumental)",Jimin,album,FALSE,90,9,5.0,3.00,0.22,40.7,-1.05,65,12.7200
+"Left and Right (Feat. Jung Kook of BTS)","Charlie Puth",album,FALSE,226,8,33.5,1.06,-1.25,41.8,0.55,83,12.6475
+Alone,Jimin,single,FALSE,408,6,4.7,0.44,0.00,45.3,-2.44,77,12.6370
+"plot twist",TWS,single,FALSE,132,4,3.5,0.91,-0.25,44.5,-0.06,78,12.2505
+"If I have you only (My love X Nerd Connection)","Nerd Connection",single,FALSE,56,9,17.4,4.82,-0.22,36.9,0.02,54,11.8740
+"Hate You","Jung Kook",album,FALSE,139,6,2.5,1.29,-0.33,39.5,0.06,84,11.6045
+EASY,"LE SSERAFIM",single,FALSE,142,10,6.1,2.11,0.10,33.2,1.21,89,11.5670
+"Please Don't Change (feat. DJ Snake)","Jung Kook",album,FALSE,102,10,4.0,2.94,-0.60,34.1,-0.95,85,11.1850
+"You Were Beautiful",DAY6,album,FALSE,60,13,15.3,6.50,0.00,28.9,-0.02,67,11.1210
+踊り子,Vaundy,album,FALSE,85,3,2.3,1.06,0.33,39.3,1.33,71,11.0735
+Face-off,Jimin,single,TRUE,406,10,3.4,0.74,-0.50,33.3,-0.82,76,11.0360
+"STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",MAX,album,FALSE,31,3,11.3,2.90,10.33,28.0,2.71,74,11.0245
+"Let's Say Goodbye","Parc Jae Jung",album,FALSE,78,2,2.0,0.77,0.00,40.5,0.75,55,10.8750
+"Never Let Go","Jung Kook",single,FALSE,88,2,2.0,0.68,0.00,40.0,0.00,90,10.6000
+Attention,NewJeans,single,FALSE,151,10,26.7,1.99,-0.40,31.0,-0.34,85,10.5820
+Fate,(G)I-DLE,album,FALSE,98,4,2.8,1.22,0.00,37.8,-0.50,74,10.5500
+"Small girl (feat. D.O.)","Lee Young Ji",single,FALSE,93,5,2.8,1.61,-0.20,36.2,-0.23,76,10.4540
+"My Love Mine All Mine",Mitski,album,FALSE,81,10,3.3,3.70,-0.60,29.0,-0.07,99,10.0860
+"we can't be friends (wait for your love)","Ariana Grande",album,FALSE,59,3,2.0,1.53,0.67,35.3,-0.83,94,9.7265
+Armageddon,"aespa & Grimes & Flava D",single,FALSE,2,1,15.0,1.00,36.00,1.0,-0.33,36,9.4840
+"Love You With All My Heart",Crush,single,FALSE,34,1,6.0,0.88,3.00,33.0,0.00,73,9.3000
+Touch,KATSEYE,single,FALSE,78,2,3.0,0.77,0.00,35.0,-0.63,85,9.2240
+Somebody,"Jung Kook",album,FALSE,63,15,5.3,7.14,-0.40,18.5,-0.49,86,8.9270
+"Christmas Love",Jimin,single,FALSE,29,14,12.8,14.00,0.21,18.4,-0.43,71,8.7665
+"Boom Boom Bass",RIIZE,album,FALSE,95,4,2.0,1.26,0.00,29.5,0.63,68,8.7010
+"Yes or No","Jung Kook",album,FALSE,181,3,3.0,0.50,-0.33,31.0,0.43,84,8.6535
+FRI(END)S,V,single,FALSE,120,6,2.3,1.50,0.33,27.5,-0.72,90,8.6135
+"Bam Yang Gang",BIBI,single,FALSE,77,3,3.0,1.17,0.00,30.3,0.03,77,8.4810
+CHIHIRO,"Billie Eilish",album,FALSE,4,1,4.0,1.00,29.00,3.0,0.25,90,8.3500
+"To. X",TAEYEON,single,FALSE,156,3,3.0,0.58,-0.33,30.3,-0.37,75,8.3185
+Memories,RIIZE,single,FALSE,43,4,2.8,2.79,0.50,27.0,0.60,74,8.1950
+"VIBE (feat. Jimin of BTS)",TAEYANG,album,FALSE,69,7,16.6,3.04,-0.14,23.7,0.18,72,8.0260
+"MILLION DOLLAR BABY","Tommy Richman",single,FALSE,118,3,2.3,0.76,0.00,26.3,0.39,95,7.5530
+"Love Letter","Lim Young Woong",album,FALSE,75,9,3.7,3.60,-0.44,19.9,-0.40,58,7.4850
+"Bubble Gum",NewJeans,single,FALSE,128,7,3.0,1.64,-0.29,22.4,-0.73,80,7.4815
+Promise,Jimin,single,FALSE,35,9,3.3,7.71,-0.11,19.3,-0.18,77,7.4615
+"double take",Dhruv,album,FALSE,31,6,3.8,5.81,-0.17,21.2,1.41,83,7.3395
+"Love 119",RIIZE,single,FALSE,108,3,2.3,0.83,-0.33,25.7,-0.50,70,7.1425
+"Kill Bill",SZA,album,FALSE,43,3,2.7,2.09,0.00,24.7,0.00,94,7.0750
+"Not Like Us","Kendrick Lamar",single,TRUE,53,5,7.8,2.83,-0.80,23.8,-0.96,98,7.0580
+T.B.H,QWER,single,FALSE,155,8,6.1,1.55,-0.25,18.0,0.50,62,6.9375
+"Closer to You (feat. Major Lazer)","Jung Kook",album,FALSE,60,13,13.1,6.50,-0.85,13.2,-0.76,86,6.8355
+"Steal The Show - From "Elemental"",Lauv,single,FALSE,105,1,3.0,0.29,0.00,25.0,1.33,77,6.8160
+"Spring Snow",10CM,single,FALSE,22,3,3.0,3.00,4.67,19.0,-0.22,76,6.7735
+"Seven (feat. Latto) (Instrumental)","Jung Kook & Latto",single,FALSE,20,1,3.0,1.00,6.00,19.0,0.00,80,6.5500
+"Right Now",NewJeans,single,FALSE,57,2,2.0,1.05,0.50,22.0,1.25,77,6.4750
+"Melt Down",DAY6,album,FALSE,66,4,2.3,1.82,-0.25,21.0,0.42,65,6.4715
+"Like Crazy (Deep House Remix)",Jimin,single,FALSE,28,9,3.7,9.00,-0.33,15.3,-0.47,73,6.3485
+"Love wins all",IU,single,FALSE,85,3,2.0,1.06,-0.33,22.0,0.00,81,6.3175
+"Like Crazy (UK Garage Remix)",Jimin,single,FALSE,25,8,3.6,8.00,-0.25,15.4,-0.14,72,6.1595
+"Lilith (feat. SUGA of BTS) (Diablo IV Anthem)","Halsey & SUGA",single,TRUE,80,6,4.2,2.25,-0.67,17.3,-0.08,85,5.9415
+"Lucky Girl Syndrome",ILLIT,single,FALSE,57,4,6.3,2.11,0.25,18.3,-0.74,78,5.6895
+"Dance The Night (From Barbie The Album)","Dua Lipa",single,FALSE,18,3,18.3,3.00,3.00,15.3,-1.72,96,5.1310
+"Lost and Found","KingLee & Lil' Flip",single,TRUE,3,1,19.0,1.00,16.00,2.0,1.00,64,5.0000
+Super,SEVENTEEN,single,FALSE,79,2,3.0,0.76,-0.50,20.0,-2.50,88,4.9750
+"No Tomorrow - Spotify Singles","Various Artists",single,FALSE,3,1,2.0,1.00,15.00,2.0,2.00,45,4.9500
+"Please Please Please","Sabrina Carpenter",single,TRUE,56,5,6.6,2.68,-0.40,14.6,-0.73,98,4.9040
+Bling-Bang-Bang-Born,"Creepy Nuts",single,FALSE,43,4,6.8,2.79,-0.25,14.8,-0.60,92,4.7175
+"Too Sad to Dance","Jung Kook",album,FALSE,44,9,11.8,6.14,-0.90,8.3,-0.45,86,4.4600
+"You & Me",JENNIE,single,FALSE,63,6,6.8,2.86,-0.67,9.7,0.34,83,4.1255
+"All I Want for Christmas Is You","Mariah Carey",album,FALSE,12,1,6.0,1.00,1.00,11.0,3.33,99,3.9660
+Jealousyvalhalla,YANGHONGWON,single,FALSE,5,1,4.0,1.00,2.00,7.0,7.00,48,3.9500
+"Talk Saxy",RIIZE,single,FALSE,22,6,12.5,6.00,0.50,8.3,-0.53,70,3.8940
+vampire,"Olivia Rodrigo",single,TRUE,38,2,3.0,1.58,-0.50,15.0,-2.00,98,3.8250
+"How can I love the heartbreak, you're the one I love",AKMU,album,FALSE,33,2,2.0,1.82,0.00,13.0,-0.25,62,3.8000
+"If I’m S, Can You Be My N?",TWS,single,FALSE,21,1,2.0,1.00,0.00,12.0,2.50,67,3.8000
+"Standing Next to You (Usher Remix)","Jung Kook & USHER",single,FALSE,72,1,15.0,0.42,-1.00,15.0,-0.07,82,3.7860
+CARNIVAL,"¥$ & Kanye West & Ty Dolla $ign",album,TRUE,13,3,7.3,3.00,3.67,7.0,0.44,97,3.6555
+JEALOUSYVALHALLA,YANGHONGWON,album,FALSE,6,0,NULL,0.00,2.00,7.0,7.00,48,3.6500
+Klaxon,(G)I-DLE,single,FALSE,22,2,3.0,2.00,1.00,10.5,0.50,75,3.5750
+"NIGHT DANCER - BIG Naughty Remix","imase & BIG Naughty",single,FALSE,10,1,11.0,1.00,6.00,7.0,-0.82,59,3.3860
+"Lovin On Me","Jack Harlow",single,TRUE,15,2,2.5,2.00,0.00,10.5,-0.08,99,3.2090
+NEMONEMO,YENA,single,FALSE,24,5,3.2,5.00,0.20,6.4,0.03,69,3.1560
+"Pump Up The Volume!",PLAVE,single,FALSE,40,2,17.5,1.50,-2.00,12.5,-0.50,67,3.1250
+"My You","Jung Kook",single,FALSE,30,6,10.8,6.00,-1.50,7.0,-0.38,87,3.0990
+"I will come to you",Jin,album,FALSE,6,1,2.0,1.00,10.00,5.0,-5.00,53,3.0500
+Snowman,Sia,album,FALSE,10,1,2.0,1.00,0.00,7.0,5.00,94,3.0500
+Dangerously,"Charlie Puth",album,FALSE,28,4,5.3,4.00,0.50,6.5,0.40,65,3.0300
+"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)","Fast & Furious: The Fast Saga & Jimin & BTS",single,FALSE,65,3,26.3,1.38,-1.00,9.3,-0.06,74,2.9630
+"Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]","Jung Kook & BTS",single,FALSE,161,4,7.5,0.75,-0.50,7.0,0.36,82,2.8970
+"With you","Jimin & HA SUNG WOON",single,FALSE,22,4,57.8,4.00,-0.75,7.3,-0.14,77,2.8095
+Cosmic,"Red Velvet",single,FALSE,25,1,2.0,1.00,0.00,10.0,0.00,72,2.8000
+MANIAC,VIVIZ,single,FALSE,13,4,5.0,4.00,0.25,6.5,-0.47,83,2.7935
+Nest,"Lim Young Woong",album,FALSE,36,6,5.2,5.00,-0.33,4.2,0.01,59,2.7695
+CARNIVAL,"¥$ & Kanye West & Ty Dolla $ign",single,TRUE,1,0,NULL,0.00,3.67,7.0,0.44,97,2.7555
+"I will come to you",Jin,single,FALSE,4,0,NULL,0.00,10.00,5.0,-5.00,53,2.7500
+"Better Things",aespa,single,FALSE,32,2,9.5,1.88,-0.50,9.0,0.00,81,2.7250
+"Trust in me","Lim Young Woong",single,FALSE,25,1,2.0,1.00,0.00,10.0,-0.50,58,2.7000
+"Sugarcoat (NATTY Solo)","KISS OF LIFE",single,FALSE,17,3,3.0,3.00,0.00,6.3,1.03,74,2.6810
+"Take Two",BTS,single,FALSE,155,1,6.0,0.19,-1.00,11.0,-0.67,85,2.6660
+"Rainy Days",V,single,FALSE,206,4,5.5,0.58,-0.50,6.0,0.42,81,2.6590
+"Teddy Bear",STAYC,single,FALSE,13,4,2.5,4.00,-0.25,5.5,0.38,74,2.5885
+"The Astronaut",JIN,single,FALSE,7,1,140.0,1.00,3.00,6.0,0.13,82,2.5760
+"Smeraldo Garden Marching Band (feat. Loco)","Jimin & Loco",single,FALSE,20,1,2.0,1.00,0.00,9.0,0.00,91,2.5500
+"Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush)","GroovyRoom & HUH YUNJIN",single,FALSE,54,2,2.0,1.11,-1.00,7.0,2.00,72,2.5000
+"Sunflower - Spider-Man: Into the Spider-Verse","Post Malone",album,FALSE,23,5,15.2,5.00,-0.60,5.6,-1.32,89,2.4860
+AK47,"Men's Tear & 뷰티풀너드",single,FALSE,25,2,2.0,2.00,0.50,7.0,0.00,52,2.4750
+"I Don’t Think That I Like Her","Charlie Puth",album,FALSE,8,4,7.5,4.00,0.50,4.3,-0.08,74,2.3840
+Saturn,SZA,single,FALSE,10,2,4.5,2.00,2.33,5.0,-0.38,91,2.3565
+"Seven (feat. Latto) (Alesso Remix)","Jung Kook & Latto",single,TRUE,8,2,4.0,2.00,2.00,2.5,3.08,72,2.3410
+"All Or Nothing","J Money & KingLee",single,TRUE,2,1,26.0,1.00,7.00,1.0,0.15,52,2.3300
+"Shot Glass of Tears","Jung Kook",album,FALSE,45,5,15.8,3.33,-1.00,4.6,-0.46,86,2.3080
+Cupido,"Engel Montaz & Kuv507 & Latinnites Music",single,FALSE,4,1,2.0,1.00,1.00,1.0,7.50,70,2.3000
+Blue,V,single,FALSE,67,4,15.3,1.79,-0.75,5.0,0.13,82,2.2885
+Baddie,IVE,single,FALSE,62,3,14.0,1.45,-0.33,5.7,0.02,82,2.2465
+"Cupid - Twin Ver.","FIFTY FIFTY",single,FALSE,65,3,6.3,1.38,-0.67,6.7,-1.63,99,2.0815
+"Like That","Future & Metro Boomin",album,TRUE,4,1,2.0,1.00,3.00,3.0,1.00,90,2.0000
+FLOWER,JISOO,single,FALSE,44,3,9.0,2.05,-0.33,5.0,-0.51,85,1.9655
+SPOT!,"ZICO & JENNIE",single,FALSE,87,2,45.0,0.69,-3.00,9.0,-0.74,83,1.9520
+"Candy (Feat. Zion.T)","Jay Park",single,FALSE,7,3,3.7,3.00,2.00,2.3,-0.19,66,1.9370
+Holssi,IU,single,FALSE,31,2,2.5,1.94,0.00,5.5,-0.33,71,1.9090
+"Guess featuring Billie Eilish","Charli xcx & Billie Eilish",single,FALSE,8,1,3.0,1.00,1.00,3.0,3.00,90,1.9000
+"The Planet",BTS,single,FALSE,41,3,7.3,2.20,-0.67,4.0,0.75,88,1.8825
+"Fortnight (feat. Post Malone)","Taylor Swift",album,FALSE,43,2,3.0,1.40,0.00,6.0,-1.13,95,1.8740
+"Loving You","Lim Young Woong",album,FALSE,8,3,5.3,3.00,0.33,4.0,-0.61,57,1.8605
+Mars,D.O.,single,FALSE,2,1,6.0,1.00,5.00,1.0,0.17,70,1.8340
+"Last Christmas - Single Version",Wham!,album,FALSE,8,1,4.0,1.00,0.00,5.0,1.25,89,1.8000
+Filter,BTS,album,FALSE,7,3,98.7,3.00,-1.00,4.0,0.41,76,1.7320
+"3D (Justin Timberlake Remix)","Jung Kook & Justin Timberlake",single,FALSE,6,1,6.0,1.00,4.00,3.0,-1.67,75,1.7160
+"3D (feat. Jack Harlow) (Instrumental)","Jung Kook & Jack Harlow",album,FALSE,7,1,4.0,1.00,5.00,5.0,-5.50,60,1.7000
+"Click Like (Prod. Crush) (Feat. Paul Blanco)","Various Artists",single,FALSE,4,1,4.0,1.00,6.00,1.0,-1.75,66,1.7000
+Rockstar,LISA,single,TRUE,19,1,2.0,1.00,0.00,8.0,-3.00,90,1.7000
+Taste,"Sabrina Carpenter",album,FALSE,25,3,3.7,3.00,0.33,3.3,-0.58,96,1.6915
+"Love Station","Lim Young Woong",album,FALSE,5,3,5.7,3.00,0.67,2.3,0.14,57,1.6705
+SOS,KANGDANIEL,single,FALSE,49,3,4.0,1.84,-1.00,7.0,-3.67,73,1.6660
+Elevator,"Lim Young Woong",single,FALSE,6,3,6.7,3.00,0.33,2.7,0.00,56,1.6575
+"Bite Me",ENHYPEN,single,FALSE,23,1,4.0,1.00,0.00,5.0,0.50,88,1.6500
+"Fact Check","NCT 127",album,FALSE,9,1,6.0,1.00,4.00,2.0,-1.00,74,1.6000
+"Little Light",DOYOUNG,album,FALSE,8,1,3.0,1.00,2.00,4.0,-1.00,69,1.6000
+"For Us",V,single,FALSE,71,1,52.0,0.42,-5.00,10.0,0.08,80,1.5660
+"In Bloom",ZEROBASEONE,single,FALSE,6,2,3.0,2.00,2.00,2.5,-0.83,79,1.5590
+"Seven (feat. Latto) (Band Ver.)","Jung Kook & Latto",single,FALSE,10,3,3.7,3.00,0.67,3.0,-1.53,77,1.5115
+"Pleasure Shop",KEY,single,FALSE,4,1,2.0,1.00,3.00,1.0,1.00,57,1.5000
+"Intro: Singularity",BTS,album,FALSE,6,2,3.5,2.00,0.50,3.5,-0.54,71,1.4920
+"LOVE DIVE",IVE,single,FALSE,6,3,10.0,3.00,0.00,2.3,-0.10,83,1.4550
+"3D (feat. Jack Harlow) (Instrumental)","Jung Kook & Jack Harlow",single,FALSE,4,0,NULL,0.00,5.00,5.0,-5.50,60,1.4000
+"Chk Chk Boom","Stray Kids",album,FALSE,17,1,4.0,1.00,1.00,3.0,0.50,68,1.4000
+Discord,QWER,single,FALSE,5,1,3.0,1.00,1.00,2.0,1.67,59,1.3840
+"Sweet Night",V,single,FALSE,23,2,3.0,2.00,-0.50,3.0,0.75,80,1.3750
+"Like Crazy (Instrumental)",Jimin,single,FALSE,6,2,4.0,2.00,0.00,3.0,0.08,68,1.3660
+"무제(無題) (Untitled, 2014)",G-DRAGON,single,FALSE,2,1,22.0,1.00,3.00,1.0,0.32,61,1.3640
+greedy,"Tate McRae",single,TRUE,9,1,2.0,1.00,1.00,4.0,-1.00,96,1.3500
+CROOKED,G-DRAGON,album,FALSE,7,2,10.5,2.00,1.50,2.0,-0.79,65,1.3170
+"Midas Touch","KISS OF LIFE",single,FALSE,78,2,5.0,0.77,1.00,2.5,-1.06,77,1.2630
+"My Starry Love","Lim Young Woong",single,FALSE,30,3,11.3,3.00,-0.33,2.0,-0.39,58,1.2395
+ABCD,NAYEON,album,FALSE,26,1,2.0,1.00,0.00,2.0,2.00,67,1.2000
+Drowning,WOODZ,single,FALSE,7,2,2.5,2.00,0.50,1.5,0.00,61,1.1000
+"I’ll See You There Tomorrow","TOMORROW X TOGETHER",album,FALSE,7,1,3.0,1.00,0.00,4.0,-1.00,78,1.1000
+"wherever u r (ft. V of BTS)","UMI & V",single,FALSE,70,2,4.0,0.86,-0.50,2.0,0.42,84,1.0590
+"WAY 4 LUV",PLAVE,single,FALSE,12,1,55.0,1.00,0.00,3.0,0.02,60,1.0540
+"Big Dawgs","Hanumankind & Kalmi",single,TRUE,6,1,2.0,1.00,0.00,3.0,0.00,92,1.0500
+"Girls Never Die",tripleS,album,FALSE,46,1,3.0,0.65,1.00,4.0,-2.67,69,1.0160
+"yes, and?","Ariana Grande",album,TRUE,9,2,11.0,2.00,-7.33,9.0,-0.02,97,1.0135
+SHEESH,BABYMONSTER,single,FALSE,91,1,4.0,0.33,1.00,2.0,-0.75,85,0.9000
+GODS,"League of Legends & NewJeans",single,FALSE,111,2,4.5,0.54,0.00,1.5,-0.58,85,0.8590
+Kitsch,IVE,album,FALSE,92,2,2.0,0.65,-0.50,1.5,0.00,77,0.8500
+Spicy,aespa,single,FALSE,120,1,3.0,0.25,-1.00,2.0,1.33,80,0.8160
+"I Had Some Help (Feat. Morgan Wallen)","Post Malone & Morgan Wallen",single,TRUE,9,1,4.0,1.00,2.00,1.0,-1.25,95,0.8000
+"That's What I Like","Bruno Mars",album,FALSE,5,1,508.0,1.00,0.00,2.0,0.00,87,0.8000
+euphoria,"Kendrick Lamar",single,TRUE,3,1,2.0,1.00,4.00,1.0,-4.00,89,0.7500
+"I Like Me Better",Lauv,album,FALSE,2,1,2.0,1.00,0.00,1.0,1.00,84,0.7500
+Cupid,"FIFTY FIFTY",single,FALSE,52,1,5.0,0.58,0.00,4.0,-2.80,87,0.7400
+Tick-Tack,ILLIT,single,FALSE,2,1,3.0,1.00,1.00,1.0,-0.33,74,0.7340
+"yes, and?","Ariana Grande",single,TRUE,34,1,3.0,0.88,-7.33,9.0,-0.02,97,0.7135
+ANTIFRAGILE,"LE SSERAFIM",album,FALSE,50,1,13.0,0.60,0.00,2.0,-0.54,79,0.6920
+Queencard,(G)I-DLE,single,FALSE,119,2,9.0,0.50,-1.00,1.5,-0.17,85,0.6910
+"Cool With You",NewJeans,single,FALSE,86,1,4.0,0.35,0.00,1.0,0.50,85,0.6500
+"한 페이지가 될 수 있게",DAY6,single,FALSE,2,1,2.0,1.00,0.00,1.0,0.50,52,0.6500
+"Fighting (Feat. Lee Young Ji)",BSS,single,FALSE,18,1,4.0,1.00,0.00,2.0,-1.00,78,0.6000
+"Super Lady",(G)I-DLE,album,FALSE,14,1,3.0,1.00,0.00,2.0,-1.00,81,0.6000
+"Swan Song","LE SSERAFIM",single,FALSE,24,1,2.0,1.00,0.00,2.0,-1.00,79,0.6000
+Steady,"NCT WISH",album,FALSE,5,1,3.0,1.00,3.00,1.0,-3.67,59,0.5660
+"Dare to Love (feat. BIG Naughty)",B.I,album,FALSE,8,1,3.0,1.00,0.00,1.0,0.00,64,0.5500
+Thirsty,aespa,single,FALSE,47,1,2.0,0.64,0.00,1.0,-0.50,77,0.4500
+Why?,PLAVE,single,FALSE,5,1,5.0,1.00,1.00,2.0,-3.00,55,0.4500
+예뻤어,DAY6,album,FALSE,2,1,2.0,1.00,0.00,1.0,-0.50,49,0.4500
+"Baggy Jeans",NCT,album,FALSE,24,1,7.0,1.00,0.00,1.0,-0.57,64,0.4360
+"Nice Guy",BOYNEXTDOOR,album,FALSE,20,1,5.0,1.00,0.00,1.0,-0.60,70,0.4300
+MAESTRO,SEVENTEEN,album,FALSE,13,1,4.0,1.00,0.00,2.0,-2.00,81,0.4000
+"Love Lee",AKMU,single,FALSE,82,1,2.0,0.37,0.00,1.0,-1.00,81,0.3500
+"Christmas Tree",V,single,FALSE,72,1,9.0,0.42,-1.00,2.0,-1.33,81,0.2840
+CRAZY,"LE SSERAFIM",album,FALSE,80,1,2.0,0.38,0.00,2.0,-3.00,80,0.2000
+Vancouver,"BIG Naughty",single,FALSE,9,2,51.5,2.00,-1.50,2.0,-2.75,59,0.1750
+"FIELD TRIP","¥$ & Kanye West & Ty Dolla $ign",album,TRUE,9,1,14.0,1.00,-3.00,2.0,0.57,78,0.1640
+"Seven (feat. Latto) (Summer Mix)","Jung Kook & Latto",single,FALSE,6,1,5.0,1.00,1.00,2.0,-4.60,77,0.1300
+"Still With You","Jung Kook",single,FALSE,109,1,3.0,0.28,0.00,1.0,-2.33,84,0.0840
+"But Sometimes",BOYNEXTDOOR,single,FALSE,19,1,4.0,1.00,0.00,1.0,-2.50,70,0.0500
+1-800-hot-n-fun,"LE SSERAFIM",single,FALSE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"24YB (Intro)",YANGHONGWON,album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"3D (Alternate Ver.)","Jung Kook & Jack Harlow",single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"3D (Alternate Ver.)","Jung Kook & Jack Harlow",album,FALSE,18,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"3D (feat. Jack Harlow)","Jung Kook & Jack Harlow",single,TRUE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"3D (feat. Jack Harlow)","Jung Kook & Jack Harlow",album,TRUE,108,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"3D (feat. Jack Harlow) (Alternate Ver.)","Jung Kook & Jack Harlow",single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"3D (feat. Jack Harlow) (MK Remix)","Jung Kook & Jack Harlow & MK",single,TRUE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"990 (Feat. Kim Ximya)",Beenzino,album,TRUE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"A Yo (Feat. Beenzino)","E SENS",album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Accendio,IVE,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"After LIKE",IVE,single,FALSE,48,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"ALL RED","Playboi Carti",single,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Allergy,(G)I-DLE,single,FALSE,25,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)","Fast & Furious: The Fast Saga",compilation,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)","Fast & Furious: The Fast Saga & Jimin & BTS",single,FALSE,217,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Another Level",Jin,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Another Level",Jin,album,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+APT.,"ROSÉ & Bruno Mars",single,FALSE,39,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"As You Wish",WJSN,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+ASAP,NewJeans,single,FALSE,44,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Attention (250 Remix)",NewJeans,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"BACK TO ME","Kanye West & Ty Dolla $ign",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+BAHAMA,aespa,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Boat,george,single,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Boys Like Girls (Feat. Gist, Jayci yucca)",Leellamarz,album,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Bubble,STAYC,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Bubble Gum (Instrumental)",NewJeans,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+BURN,"Kanye West & Ty Dolla $ign",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"But Daddy I Love Him","Taylor Swift",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"BY COLOR, WHITE COLOR (Feat. KOVV)",YANGHONGWON,album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Camp,Beenzino,album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+CARNIVAL,"Kanye West & Ty Dolla $ign",album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Chasing Lightning","LE SSERAFIM",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Chasing That Feeling","TOMORROW X TOGETHER",album,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Cheers to youth",SEVENTEEN,album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Chemical,"Post Malone",single,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Cherish (My Love)",ILLIT,single,FALSE,36,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Chill Kill","Red Velvet",album,FALSE,17,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Christmas Without You","Ava Max",single,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Circles,"Post Malone",album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Citi+,YANGHONGWON,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Coca Cola Red (Feat. oygli)",Beenzino,album,TRUE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Combo,RIIZE,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Crazier,"LE SSERAFIM",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Cream Soda",EXO,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Crime (Feat. Bek Hyunjin, 250)",Beenzino,album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Dancing In The Flames","The Weeknd",single,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Dangerous,BOYNEXTDOOR,single,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Dangerous,BOYNEXTDOOR,album,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Darling, I (feat. Teezo Touchdown)","Tyler, The Creator",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+DASH,NMIXX,album,FALSE,56,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Deja Vu","TOMORROW X TOGETHER",album,FALSE,28,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"DELRESTO (ECHOES)","Travis Scott",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Demon,$ecrecy,album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Deseydin Anlardım",EDES,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"DIE 4 YOU",DEAN,single,FALSE,28,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Die With A Smile","Lady Gaga & Bruno Mars",single,FALSE,103,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Ditto (250 Remix)",NewJeans,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"DO IT","Kanye West & Ty Dolla $ign",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Don't Look Back in Anger - Remastered",Oasis,album,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"don't wanna break up again","Ariana Grande",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Dopamine - GISELLE Solo",aespa,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Dope As (Interlude)",Beenzino,album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Down Bad","Taylor Swift",album,TRUE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+DRIP,BABYMONSTER,album,FALSE,24,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Earth, Wind & Fire",BOYNEXTDOOR,album,FALSE,25,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Either Way",IVE,single,FALSE,38,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+ENGLAND,YANGHONGWON,album,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"eternal sunshine","Ariana Grande",album,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Eve, Psyche & The Bluebeard’s wife","LE SSERAFIM",album,FALSE,131,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Even for a moment","Sung Si Kyung & Naul",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Event Horizon",Younha,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Every Moment With You",JAESSBEE,single,FALSE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Falling,Jin,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Falling,Jin,album,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Fast Forward","JEON SOMI",single,FALSE,76,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+FE!N,"Travis Scott",album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"FE!N (feat. Playboi Carti)","Travis Scott",album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Flights, Not Feelings",aespa,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Flooded The Face","Lil Uzi Vert",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Flowers,aespa,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+FOREVER,BABYMONSTER,single,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"FRI(END)S (Instrumental)",V,single,FALSE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"FRI(END)S (Slowed Down)",V,single,FALSE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"FRI(END)S (Sped Up)",V,single,FALSE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+FRIED,"¥$ & Kanye West & Ty Dolla $ign",album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"FUK SUMN","Kanye West & Ty Dolla $ign",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+G.O.A.T,TAEMIN,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Get The Hell Out",DAY6,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Get Up",NewJeans,single,FALSE,38,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"God of Music",SEVENTEEN,album,FALSE,11,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"GOD'S COUNTRY","Travis Scott",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Gonna Be A Rock",BOYNEXTDOOR,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Good Bones","LE SSERAFIM",single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+GOSLOW,YANGHONGWON,album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Gym,Beenzino,album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+HARD,SHINee,album,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Heart on the Window (with WENDY)",Jin,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Heart on the Window (with WENDY)",Jin,album,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Heavy Is the Crown","Linkin Park",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"HELIOT EMIL",CHANGMO,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Hell yea","Leellamarz & YANGHONGWON",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Here With Me",d4vd,single,FALSE,50,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+HEYA,IVE,single,FALSE,61,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"High Note","KingLee & Code G",single,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"HOME SWEET HOME (feat. TAEYANG & DAESUNG)","G-DRAGON & TAEYANG & DAESUNG",single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Honestly,RIIZE,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Horizon,TAEMIN,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"How Sweet (Instrumental)",NewJeans,single,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+HYAENA,"Travis Scott",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"I AM",IVE,album,FALSE,159,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"i don't know (with HUH YUNJIN of LE SSERAFIM)",j-hope,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"i like the way you kiss me",Artemas,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"I stan U",IU,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"i wonder... (with Jung Kook of BTS)",j-hope,single,FALSE,14,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"I'll Be There",Jin,single,FALSE,25,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"I’ll Be There",Jin,album,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Igloo,"KISS OF LIFE",single,FALSE,33,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"In Bed/Makgulli",Beenzino,album,TRUE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+ISTJ,"NCT DREAM",album,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"It's Beginning to Look a Lot like Christmas","Michael Bublé",album,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"It's the Most Wonderful Time of the Year","Andy Williams",album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+ITEM,"Stray Kids",album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Jeogeumtong,"E SENS",album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Jingle Bell Rock","Bobby Helms",single,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"KEYS TO MY LIFE","Kanye West & Ty Dolla $ign",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+KIDDING,"ISEGYE IDOL",single,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Kill It",aespa,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+LALALALA,"Stray Kids",album,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+LALALI,SEVENTEEN,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Lemon,Beenzino,album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Let It Snow! Let It Snow! Let It Snow!","Dean Martin",album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Let Me In",EXO,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Let off steam","Leellamarz & YANGHONGWON",single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Letter To Myself",TAEYEON,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Licorice,aespa,album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Lie,BTS,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Like A Fool (Feat. Y2K92)",Beenzino,album,TRUE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Live My Life",aespa,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"lock / unlock (with benny blanco & Nile Rodgers)",j-hope,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+LOCKDOWN,"ISEGYE IDOL",single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Lose My Breath","Stray Kids",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Lose My Breath (Feat. Charlie Puth)","Stray Kids & Charlie Puth",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+LOST!,RM,album,TRUE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"LOVE, MONEY, FAME (feat. DJ Khaled)",SEVENTEEN,single,FALSE,15,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+LUNCH,"Billie Eilish",album,FALSE,29,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"luther (with sza)","Kendrick Lamar",album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Mantra,JENNIE,single,TRUE,46,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Melt Away",TAEYEON,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+MELTDOWN,"Travis Scott",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Midnight Fiction",ILLIT,single,FALSE,17,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Mine,aespa,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Mistletoe,"Justin Bieber",album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"MODERN JAM","Travis Scott",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Monet,Beenzino,album,TRUE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Monster,DAY6,album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Moonlit Floor",LISA,single,FALSE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Moonlit Floor (Kiss Me)",LISA,single,FALSE,9,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Mourning,"Post Malone",single,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"My Boy Only Breaks His Favorite Toys","Taylor Swift",album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"MY EYES","Travis Scott",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"My Name is Malguem",QWER,single,FALSE,64,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"My World",ILLIT,single,FALSE,15,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"NEURON (with Gaeko & YOON MIRAE)",j-hope,single,FALSE,6,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Neva Play (feat. RM of BTS)","Megan Thee Stallion & RM",single,TRUE,15,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"New Woman (feat. ROSALÍA)","LISA & ROSALÍA",single,FALSE,29,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"NIGHT DANCER",imase,album,FALSE,48,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"No Boss (Feat. Dok2)","E SENS",album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Noid,"Tyler, The Creator",single,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Noid,"Tyler, The Creator",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"number one girl",ROSÉ,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Off The Record",IVE,single,FALSE,28,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"OMG (FRNK Remix)",NewJeans,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"On the street (Feat. ASH ISLAND)",Leellamarz,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"One Kiss",RIIZE,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Overdrive,"Post Malone",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+PAID,"Kanye West & Ty Dolla $ign",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Paint The Town Red","Doja Cat",single,TRUE,24,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Paint The Town Red","Doja Cat",album,TRUE,41,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+PALISADE,YANGHONGWON,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+PARANOIA,"HEARTSTEEL & League of Legends & BAEKHYUN",single,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Pierrot,"LE SSERAFIM",single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Pink Hoodie",aespa,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Popcorn,D.O.,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Popular (with Playboi Carti & Madonna)","The Weeknd & Playboi Carti & Madonna",single,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+POWER,G-DRAGON,single,FALSE,26,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+PROMOTION,"¥$ & Kanye West & Ty Dolla $ign",album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Push Ups",Drake,single,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Radio,Beenzino,album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Rah Tah Tah","Tyler, The Creator",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Right Now (Instrumental)",NewJeans,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Rockin' Around The Christmas Tree","Brenda Lee",album,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+ROLEX,YANGHONGWON,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Roller Coaster",NMIXX,single,FALSE,15,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Rumble,KingLee,single,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Runaway,"Kanye West",album,TRUE,11,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Running Wild",Jin,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Running Wild",Jin,album,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+S-Class,"Stray Kids",album,FALSE,31,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+SAHARA,YANGHONGWON,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Salty & Sweet",aespa,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Sandman,Beenzino,album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Santa Tell Me","Ariana Grande",single,FALSE,11,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Say Less",TAEMIN,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Scenery,V,single,FALSE,12,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"See that?",NMIXX,single,FALSE,24,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Serendipity - Full Length Edition",BTS,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Set The Tone",aespa,album,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Seven (David Guetta Remix)","Jung Kook & Latto & David Guetta",single,TRUE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Seven (feat. Latto) (Explicit Ver.)","Jung Kook & Latto & BTS",single,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Seven (feat. Latto) (Instrumental)","Jung Kook & Latto & BTS",single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Seven (feat. Latto) (Lofi Mix)","Jung Kook & Latto",single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Sexy In The Air",TAEMIN,single,FALSE,11,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"She Smiled",DAY6,album,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim)",IU,single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Shoong! (feat. LISA of BLACKPINK)",TAEYANG,album,FALSE,10,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Shopper,IU,single,FALSE,18,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Shxtty Game",DAY6,album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Siren,RIIZE,single,FALSE,32,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+SIRENS,"Travis Scott",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Skrr (feat. GISELLE)",HAON,single,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+SLIDE,"¥$ & Kanye West & Ty Dolla $ign",album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Slime You Out (feat. SZA)","Drake & SZA",single,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Slow Dancing (FRNK Remix)",V,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Smoke (Prod. Dynamicduo, Padi)","Various Artists",single,FALSE,46,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Smoothie,"NCT DREAM",single,FALSE,11,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Snooze (Acoustic) (feat. Justin Bieber)","SZA & Justin Bieber",single,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Snow Flower (feat. Peakboy)",V,single,FALSE,12,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"So Long, London","Taylor Swift",album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Somebody,D.O.,single,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Soñar (Breaker)",NMIXX,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"SOS (Prod. Marshmello)",SEVENTEEN,album,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Spark - WINTER Solo",aespa,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Spicy,"aespa & Nitepunk",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+SPOT!,ZICO,single,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"squabble up","Kendrick Lamar",album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"St. Chroma (feat. Daniel Caesar)","Tyler, The Creator",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Standing Next to You - Sped Up - Remix","Beat Record",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+STARS,"Kanye West & Ty Dolla $ign",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Stay With Me (Feat. Skinny Brown)","ASH ISLAND",single,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Stinky Kiss (Intro)",Beenzino,album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Summer (Feat. BE’O)","Paul Blanco",single,TRUE,23,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Super Bowl","Stray Kids",album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Super Tuna",Jin,single,FALSE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Supernatural (Instrumental)",NewJeans,single,FALSE,6,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Supernova,"aespa & Grimes & Flava D",single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Supernova - Japanese Version",KANGDANIEL,single,FALSE,10,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Supersonic,fromis_9,single,FALSE,105,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Sweet Venom",ENHYPEN,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+TALKING,"Kanye West & Ty Dolla $ign",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"THANK GOD","Travis Scott",album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"The Breakup Anthem",Ebstar,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"The First Snow",EXO,single,FALSE,15,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"The Tortured Poets Department","Taylor Swift",album,TRUE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"The Unknown Sea",TAEMIN,single,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"TIME MOVING SLOW","¥$ & Kanye West & Ty Dolla $ign",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Timeless (with Playboi Carti)","The Weeknd & Playboi Carti",single,TRUE,12,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"TOO MUCH","The Kid LAROI",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"TOO MUCH","The Kid LAROI & Jung Kook & Central Cee",single,TRUE,21,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"TOPLINE (Feat. Tiger JK)","Stray Kids",album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Travel Again (Feat. Cautious Clay)",Beenzino,album,TRUE,10,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Trippy (Feat. Lance Skiiiwalker)",Beenzino,album,TRUE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Type Shit","Future & Metro Boomin",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Underneath the Tree","Kelly Clarkson",album,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"UNFORGIVEN (feat. Nile Rodgers)","LE SSERAFIM",album,FALSE,103,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"UNLOVE (prod. HONNE)",Zion.T,album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"UP - KARINA Solo",aespa,single,FALSE,48,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"V (Peace) (feat. AKMU)",Zion.T,album,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Vancouver 2","BIG Naughty",single,FALSE,17,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"wacced out murals","Kendrick Lamar",album,TRUE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Walk,"NCT 127",album,FALSE,10,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Water,Tyla,single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"We got so much","LE SSERAFIM",single,FALSE,4,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Welcome To MY World (feat. nævis)",aespa,single,FALSE,8,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Well…?,YANGHONGWON,album,FALSE,3,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"What The Hell","E SENS",album,FALSE,1,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Whiplash,aespa,single,FALSE,36,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Wife,(G)I-DLE,single,FALSE,7,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+Wife,(G)I-DLE,album,FALSE,31,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Winter Bear",V,single,FALSE,12,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"XO (Only If You Say Yes)",ENHYPEN,album,FALSE,5,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",GroovyRoom,single,FALSE,13,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+"地球儀 - Spinning Globe","Kenshi Yonezu",single,FALSE,2,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+愛を伝えたいだとか,Aimyon,album,FALSE,34,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+青い珊瑚礁,"Seiko Matsuda",album,FALSE,11,0,NULL,0.00,NULL,NULL,NULL,NULL,0.0000
+CRAZY,"LE SSERAFIM",single,FALSE,3,0,NULL,0.00,0.00,2.0,-3.00,80,-0.1000
+Impossible,RIIZE,single,FALSE,37,1,24.0,0.81,-6.00,4.0,-0.13,63,-0.2260
+bye,"Ariana Grande",album,FALSE,5,1,2.0,1.00,2.00,1.0,-6.50,87,-0.2500
+"Stay Alive (Prod. SUGA of BTS)","Jung Kook",single,FALSE,13,1,25.0,1.00,-3.00,1.0,-0.52,80,-0.3040
+"녹아내려요 Melt Down",DAY6,single,FALSE,2,1,2.0,1.00,0.00,1.0,-5.00,55,-0.4500
+Impossible,RIIZE,album,FALSE,3,0,NULL,0.00,-6.00,4.0,-0.13,63,-0.5260
+"Slow Dancing (Piano Ver.)",V,single,FALSE,60,1,54.0,0.50,-7.00,1.0,-0.02,79,-1.2040
+アイドル,YOASOBI,single,FALSE,117,2,11.0,0.51,-19.33,8.0,0.35,88,-2.1625
+アイドル,YOASOBI,album,FALSE,1,1,5.0,1.00,-19.33,8.0,0.35,88,-2.4625
+"Young Man","HYUKOH & 落日飛車 Sunset Rollercoaster",album,FALSE,3,1,2.0,1.00,-20.00,3.0,7.00,35,-2.5500
+"Young Man","HYUKOH & 落日飛車 Sunset Rollercoaster",single,FALSE,6,0,NULL,0.00,-20.00,3.0,7.00,35,-2.8500
+"Come back to me",RM,album,FALSE,1,1,10.0,1.00,-15.00,1.0,0.50,63,-3.1000
+"Broken Melodies","NCT DREAM",album,FALSE,2,1,20.0,1.00,-16.00,2.0,0.30,56,-3.1400
+"Come back to me",RM,single,FALSE,5,0,NULL,0.00,-15.00,1.0,0.50,63,-3.4000
+"Broken Melodies","NCT DREAM",single,FALSE,10,0,NULL,0.00,-16.00,2.0,0.30,56,-3.4400
+MEOW,MEOVV,single,FALSE,48,1,2.0,0.63,-18.00,2.0,1.00,58,-3.5000
+"Love Me Like This",NMIXX,single,FALSE,18,2,2.5,2.00,-25.00,1.5,-0.67,79,-5.4090
